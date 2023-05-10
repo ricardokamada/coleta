@@ -1,0 +1,2 @@
+# coleta
+External collection management
